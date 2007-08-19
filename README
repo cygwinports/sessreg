@@ -28,30 +28,33 @@ Canonical download:
 -------------------------------------------
 
 Build instructions:
-  unpack sessreg-1.0.2-X-src.tar.bz2
+  unpack sessreg-1.0.3-X-src.tar.bz2
     if you use setup to install this src package, it will be
 	 unpacked under /usr/src automatically
   cd /usr/src
-  cygport ./sessreg-1.0.2-X.cygport all
+  cygport ./sessreg-1.0.3-X.cygport all
 
 This will create:
-  /usr/src/sessreg-1.0.2-X-src.tar.bz2
-  /usr/src/sessreg-1.0.2-X.tar.bz2
+  /usr/src/sessreg-1.0.3-X-src.tar.bz2
+  /usr/src/sessreg-1.0.3-X.tar.bz2
 
 -------------------------------------------
 
 Files included in the binary package:
 
   /usr/bin/sessreg.exe
-  /usr/share/doc/Cygwin/sessreg-1.0.2.README
-  /usr/share/doc/sessreg-1.0.2/AUTHORS
-  /usr/share/doc/sessreg-1.0.2/COPYING
-  /usr/share/doc/sessreg-1.0.2/ChangeLog
+  /usr/share/doc/Cygwin/sessreg-1.0.3.README
+  /usr/share/doc/sessreg-1.0.3/AUTHORS
+  /usr/share/doc/sessreg-1.0.3/COPYING
+  /usr/share/doc/sessreg-1.0.3/ChangeLog
   /usr/share/man/man1/sessreg.1.gz
 
 ------------------
 
 Port Notes:
+
+----- version 1.0.3-1 -----
+Version bump.
 
 ----- version 1.0.2-1 -----
 Version bump for X11R7.3.
