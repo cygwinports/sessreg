@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin
-sdesc: "Xorg xdm session register utility"
-ldesc: "Xorg xdm session register utility"
+sdesc: "X.Org xdm session register utility"
+ldesc: "X.Org xdm session register utility"
