@@ -1,4 +1,0 @@
-category: X11
-requires:
-sdesc: "X.Org xdm session register utility"
-ldesc: "X.Org xdm session register utility"
